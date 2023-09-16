@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>辞疑</title>
+  
+  <subtitle>This site becomes the whimsy</subtitle>
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2023-09-16T04:14:54.369Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>JaulinBage</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>记录的园区</title>
+    <link href="http://example.com/2023/09/15/story/"/>
+    <id>http://example.com/2023/09/15/story/</id>
+    <published>2023-09-15T15:55:16.461Z</published>
+    <updated>2023-09-16T04:14:54.369Z</updated>
+    
+    <content type="html"><![CDATA[<p>to begin with:</p><p>你说，整个博客有什么用呢？其实出发点很简单的，因为cip这个网站并不适合拿来做记录啊，而且似乎不是很吸引人。一个重要的原因就是他是wordpress做的，wordpress做出美观简洁的网站是可以的，但是比较困难。又因为是个人搭建的网站，受限于成本，租服务器只能选很便宜的，用起来会很卡顿。再加上经常收到奇怪的俄语评论，现在似乎大家不是很喜欢上去。于是我把记录放在这里，这样或许就能看到了。<br>从前的许多东西，比如放在双柯成基上，现在可以放这里。倒还不错。</p><p>或许我也可以拿来记录一些自己喜欢的东西吧。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;to begin with:&lt;/p&gt;
+&lt;p&gt;你说，整个博客有什么用呢？其实出发点很简单的，因为cip这个网站并不适合拿来做记录啊，而且似乎不是很吸引人。一个重要的原因就是他是wordpress做的，wordpress做出美观简洁的网站是可以的，但是比较困难。又因为是个人搭建</summary>
+      
+    
+    
+    
+    <category term="corgi" scheme="http://example.com/categories/corgi/"/>
+    
+    
+    <category term="sweet" scheme="http://example.com/tags/sweet/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>setup log</title>
+    <link href="http://example.com/2023/09/15/setup/"/>
+    <id>http://example.com/2023/09/15/setup/</id>
+    <published>2023-09-15T14:45:08.428Z</published>
+    <updated>2023-09-16T03:45:41.445Z</updated>
+    
+    <content type="html"><![CDATA[<h6 id="9-9-23"><a href="#9-9-23" class="headerlink" title="9.9.23"></a>9.9.23</h6><p> 我已经完成了前三个步骤，包括登录github帐户、获取git的基本技术以及将远程存储库与本地主机关联。</p><p> 测试文件可以从github上我自己的存储库中提取，尽管有些问题仍然存在，调试的痕迹将附在文档下面。</p><p> 我使用的命令是“git pull origin master”，而正确的命令应该是“git pull origin main”，因为初始存储库中新分支的默认名称是“main”而不是“master”。</p><p>由于本地分支名称默认为“master”，因此作者编写了“master”。</p><p>url:<br><a href="https://stackoverflow.com/questions/64628893/git-pull-master-with-error-fatal-couldnt-find-remote-ref-master">https://stackoverflow.com/questions/64628893/git-pull-master-with-error-fatal-couldnt-find-remote-ref-master</a></p><p><img src="/2023/09/15/setup/9.9.23_1.jpg" alt="1"></p><h6 id="9-10-23"><a href="#9-10-23" class="headerlink" title="9.10.23"></a>9.10.23</h6><p>我们现在可以通过测试了，我已经注册了另一个网站，<a href="http://jaulin.site,您可以通过它访问主站点.这个网站是由“next”创建的,实际上是一个开源的个人博客主题.同时,非常感谢github提供的服务./">http://jaulin.site，您可以通过它访问主站点。这个网站是由“next”创建的，实际上是一个开源的个人博客主题。同时，非常感谢github提供的服务。</a></p><p>解析域名后，我可以通过简单的方式设置主题并生成信息，只需修改这些配置文件。</p><p>在下一步中，阅读markdown文件以了解如何个性化博客上显示的详细信息可能是至关重要的。这肯定是一项艰苦的工作，因为用户手册自然是用英语写的。因此，推迟部署是不可避免的。</p><h6 id="9-15-23"><a href="#9-15-23" class="headerlink" title="9.15.23"></a>9.15.23</h6><p>美好的</p><p>现在我可以把markdown文件和图片上传到博客了。如何展示纸条上的图片真的是一项艰巨的工作，但我已经解决了！</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h6 id=&quot;9-9-23&quot;&gt;&lt;a href=&quot;#9-9-23&quot; class=&quot;headerlink&quot; title=&quot;9.9.23&quot;&gt;&lt;/a&gt;9.9.23&lt;/h6&gt;&lt;p&gt; 我已经完成了前三个步骤，包括登录github帐户、获取git的基本技术以及将远程存储库与本地主机关联。&lt;/</summary>
+      
+    
+    
+    
+    <category term="record of anything" scheme="http://example.com/categories/record-of-anything/"/>
+    
+    
+    <category term="test" scheme="http://example.com/tags/test/"/>
+    
+  </entry>
+  
+</feed>
